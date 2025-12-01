@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D4D16AQE4yRgIQm__TA/profile-displaybackgroundimage-shrink_350_1400/B4DZrU7uflIMAc-/0/1764509020908?e=1766016000&v=beta&t=dtiBoaoB4QMtUc4Tv7plAf04zWREUi_1lAIiqeaWJZ0)
+![](https://media.licdn.com/dms/image/v2/D4D16AQFiYHaCFkDxdg/profile-displaybackgroundimage-shrink_350_1400/B4DZrat0wPIkAY-/0/1764606040395?e=1766016000&v=beta&t=udqEBkeyK2DNTCiZZ06SPV1PIlwIrB4lxS6LWxKeeZA)
 ## About Me:
 Hi! I’m Utkarsh — a CSE student specializing in AI & ML, passionate about <br>building real-world products that blend intelligent systems with scalable <br>full-stack engineering. I love creating things end-to-end: from model <br>pipelines and data workflows to production-ready web apps.<br><br>I’m actively looking for impactful opportunities where I can solve <br>meaningful problems, contribute to high-velocity teams, and grow fast.
 
